@@ -23,7 +23,7 @@ I am a Computer Science and Cybersecurity student with interests in systems, net
 
 ## 📂 Site Structure
 ```text
-├── index.html        # Home page
+├── index.html       # Home page
 ├── projects.html    # Project showcase
 ├── content.html     # Additional content/about
 ├── main.css         # Global styles
