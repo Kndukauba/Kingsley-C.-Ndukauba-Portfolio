@@ -45,7 +45,7 @@ Simple and accessible navigation
 
 Resume
 You can download my resume directly here:
-Kingsley C. Ndukauba – Resume
+Kingsley-C-Ndukauba_Resume.pdf
 
 Contact
 Email: kayceendukauba@gmail.com
