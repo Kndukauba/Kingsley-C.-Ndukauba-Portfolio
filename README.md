@@ -29,7 +29,7 @@ I am a Computer Science and Cybersecurity student with interests in systems, net
 ├── main.css         # Global styles
 ├── main.js          # JavaScript functionality
 ├── assets/          # Images and media
-├── Kingsley-C-Ndukauba_Resume.pdf
+├── Kingsley_C._Ndukauba-Resume-LV.pdf
 └── README.md
 
 Features
@@ -45,7 +45,7 @@ Simple and accessible navigation
 
 Resume
 You can download my resume directly here:
-Kingsley-C-Ndukauba_Resume.pdf
+Kingsley_C._Ndukauba-Resume-LV.pdf
 
 Contact
 Email: kayceendukauba@gmail.com
